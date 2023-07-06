@@ -33,3 +33,4 @@ Aliquam vel est consectetur lectus malesuada mollis sit amet non neque.
 
 This is a [relative link](../sub-dir1/post3.md) which links to another markdown post w.r.t the current file.
 This is an [absolute link](/folder1/sub-dir1/post3.md) which links to another post w.r.t the root directory.
+
